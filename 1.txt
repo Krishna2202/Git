@@ -1,3 +1,5 @@
 Hello World
 This is my first program in git
-here it updates the code
+here it updates the code.
+
+never trust anyone.be secured.
