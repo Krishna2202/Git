@@ -7,3 +7,5 @@ if n>1:
         print(n,"is prime")
     else:
         print(n,"is composite")
+#Program is successfully complete
+
